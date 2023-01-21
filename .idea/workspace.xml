@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d97d899-9a8f-4283-aa9b-ea1001ab2722" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/EvenorOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/EvenorOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/VowelOrConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/VowelOrConsonant.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +42,19 @@
   }
 }</component>
   <component name="RunManager" selected="Application.LargestThreeNum">
+    <configuration name="EvenorOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.BasicCore.EvenorOdd" />
+      <module name="Day5Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.BasicCore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LargestThreeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.BasicCore.LargestThreeNum" />
       <module name="Day5Assignment" />
@@ -75,6 +84,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.LargestThreeNum" />
+        <item itemvalue="Application.EvenorOdd" />
         <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
