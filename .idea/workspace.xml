@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d97d899-9a8f-4283-aa9b-ea1001ab2722" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/EvenorOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/EvenorOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/VowelOrConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/BasicCore/VowelOrConsonant.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
